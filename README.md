@@ -18,5 +18,7 @@ This project has been a great hands-on experience with real-time automation and 
 🛠️ Skills and Technologies Used:
 
 Tools: Ansible, AWS EC2
+
 Languages: YAML (for Ansible playbooks)
+
 Concepts: Infrastructure as Code (IaC), Automation, Cloud Computing, DevOps Practices
