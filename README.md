@@ -15,3 +15,8 @@ Configured with connection: local on the Ansible control node.
 
 This project has been a great hands-on experience with real-time automation and AWS provisioning. I’m excited to continue building on these skills and exploring new automation challenges! 💡
 
+🛠️ Skills and Technologies Used:
+
+Tools: Ansible, AWS EC2
+Languages: YAML (for Ansible playbooks)
+Concepts: Infrastructure as Code (IaC), Automation, Cloud Computing, DevOps Practices
