@@ -9,7 +9,7 @@
       key_name: "linux@123"
       instance_type: t2.micro
       security_group: default
-      region: ap-south-1
+      region: us-east-1
       aws_access_key: "{{ec2_access_key}}"  # From vault as defined
       aws_secret_key: "{{ec2_secret_key}}"  # From vault as defined      
       network:
